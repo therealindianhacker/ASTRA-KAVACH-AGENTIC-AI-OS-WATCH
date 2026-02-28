@@ -1,2 +1,10 @@
-# ASTRA-KAVACH-AGENTIC-AI-OS-WATCH
-ASTRA-KAVACH Agentic AI OS Watch is an intelligent security wearable designed to protect against cyber threats and physical dangers in real time. It monitors signals, detects suspicious activity, sends instant alerts, and acts as a personal AI guardian. Developed by Team Quantum Hackers, it ensures smart, proactive, and reliable protection anywhere
+# ASTRA-KAVACH Production Watch OS
+
+Production-grade smartwatch OS for ESP32-S3 AMOLED.
+
+Features:
+- Touch UI (LVGL ready)
+- AI Service Framework
+- Power Management
+- Modular Apps and Services
+- Security Monitoring
